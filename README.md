@@ -54,11 +54,17 @@ Elsayed Mohamed Fahmy
 For any inquiries or assistance regarding this project, feel free to contact us:
 
 Email: Baseldawoud@gmail.com
+
 WhatsApp: +20 102 181 1895
+
 Email: adhamashraf0114208@gmail.com
+
 WhatsApp: +20 114 208 7556
+
 Email: sedo5970@gmail.com
+
 WhatsApp: +20 109 369 3844
+
 Please don't hesitate to reach out if you have questions, suggestions, or need further clarification. I'll be happy to assist you!
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
